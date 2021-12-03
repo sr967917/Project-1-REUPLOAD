@@ -39,7 +39,7 @@ button.position-absolute {
 }
 
 .cta {
-    background-image: url(/Images/front-1.jpg);
+    background-image: url(front-1.jpg);
     color: white;
     height: 250px;
 }
@@ -58,7 +58,7 @@ button.position-absolute {
 /* body */
 
 main {
-    background-image: url(/Images/background%20opacity2.png);
+    background-image: url(background%20opacity2.png);
     background-repeat: repeat;
     background-size: 70%;
     position: relative;
